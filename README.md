@@ -1,8 +1,8 @@
 # Day Planner
 ## Description 
-A simple code quiz using javascript
+A simple day planner
 ## Screenshots
-![Screenshot of Code](./assets/screenshot.png)
+![Screenshot of Code](./Assets/screenshot.png)
 ## Links
-[Source Code](https://github.com/LilyWS/code-quiz)
-[Deployed Site](https://lilyws.github.io/code-quiz/)
+[Source Code](https://github.com/LilyWS/day-planner)
+[Deployed Site](https://lilyws.github.io/day-planner/)
